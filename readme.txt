@@ -30,3 +30,5 @@ The videomail field type adds a videomail video capture to the form display.
 == Upgrade Notice ==
 
 == Changelog ==
+
+Join the chat at https://gitter.im/kjohnson/ninja-forms-videomail
